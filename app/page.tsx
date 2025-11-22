@@ -8,7 +8,7 @@ export default function App() {
         className="max-w-xs"
         placeholder="What events are you looking to add to your calendar?"
       />
-      <Button>Show me suggestions</Button>
+      <Button>Show me !</Button>
     </div>
   );
 }
